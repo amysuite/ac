@@ -1,1 +1,1 @@
-
+Start-Process "ms-settings:"
