@@ -1,1 +1,1 @@
-start chrome.exe "https://www.youtube.com/shorts/i6vAiG1G1Xs
+start msedge.exe "https://media.tenor.com/x7E9uhFQsPkAAAAM/dennis-jurassic-park.gif"
