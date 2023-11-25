@@ -1,1 +1,1 @@
-shutdown /s
+start msedge.exe
