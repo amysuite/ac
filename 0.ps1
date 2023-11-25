@@ -1,1 +1,1 @@
-start chrome.exe
+start msedge.exe
